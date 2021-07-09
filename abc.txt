@@ -1,0 +1,7 @@
+['C:\\Python27\\Lib\\site-packages\\mico\\micot.py', 'make', 'at@MX1290@moc', 'total']
+Namespace(command=<function thunk at 0x0274DA30>, verbose=False, version=False, very_verbose=False)
+<class 'argparse.Namespace'>
+['at@MX1290@moc', 'total']
+Working path "C:\mico\Branch_3080_temp_I2C" (program)
+thunk
+<type 'function'>
